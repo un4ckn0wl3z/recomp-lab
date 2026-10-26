@@ -1,0 +1,6 @@
+{
+  "_comment": "hints สำหรับ recomp — เทียบได้กับไฟล์ .toml ของ N64Recomp. ค่าเหล่านี้ได้จากการอ่าน disasm (ดู README ขั้นที่ 3)",
+  "jump_tables": [
+    { "jr": "0x0058", "table": "0x01C8", "count": 6 }
+  ]
+}
